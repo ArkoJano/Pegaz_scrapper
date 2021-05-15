@@ -3,6 +3,9 @@ import requests
 from bs4 import BeautifulSoup
 from pprint import pprint
 
+# USERNAME = ""
+# PASSWORD = ""
+
 payload = {"username":USERNAME, 
             "password":PASSWORD,
             "submit":"zaloguj"
